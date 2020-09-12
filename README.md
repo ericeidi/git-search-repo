@@ -18,7 +18,6 @@
 
 - Technologies
   - TypeScript
-  - Express
   - React
   - Styled components
   - Exception Handling
