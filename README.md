@@ -1,4 +1,4 @@
-# Github Repository Search in React 🔎
+# Github Repository Search with React 🔎
 
 ![picture](git-imgs/git-landing-page.png)
 
