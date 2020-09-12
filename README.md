@@ -19,6 +19,7 @@
 - Technologies
   - TypeScript
   - React
+  - Axios
   - Styled components
   - Exception Handling
   - Navigation between routes using react-router-dom.
